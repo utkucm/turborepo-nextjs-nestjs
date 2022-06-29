@@ -1,0 +1,16 @@
+# tell yaml plugin that this is the config file and not a template of its own:
+# yaml-language-server: $schema=https://json.schemastore.org/github-issue-config.json
+blank_issues_enabled: false
+contact_links:
+  - name: 📝 Report Typo
+    url: https://github.com
+    about: If you find a typo, let us know in the typos discussion thread. (Link will be updated)
+  - name: 🙏 Get Help
+    url: https://github.com
+    about: If you can't get something to work the way you expect, open a question in our discussion forums. (Link will be updated)
+  - name: 💡 Feature Request
+    url: https://github.com
+    about: Suggest any ideas you have using our discussion forums. (Link will be updated)
+  - name: 💬 Discord Chat
+    url: https://discord.gg
+    about: Ask questions and talk to other Spacedrive users and the maintainers. (Link will be updated)
